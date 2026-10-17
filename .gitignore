@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+qdrant_data/
+mem0_history.db
+*.db
+.env
+*.key
